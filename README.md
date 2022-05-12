@@ -1,1 +1,1 @@
-[Click to see my CV](https://vladimir-mawla.github.io/)
+[Check out my cool CV](https://vladimir-mawla.github.io/)
