@@ -1,5 +1,5 @@
 body { 
-    width: 974px;
+    width: 80%;
     margin: auto; 
     background-color: white;
     font-family: Tahoma;
@@ -25,6 +25,7 @@ p {
     background-color: rgb(232, 227, 227);
     display: flex;
     flex-flow: column;
+    
 }
 
 .avatar {
