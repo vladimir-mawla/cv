@@ -1,8 +1,9 @@
 body { 
     width: 974px;
-    margin: 0 auto; 
+    margin: auto; 
     background-color: white;
     font-family: Tahoma;
+
 }
 
 p {
